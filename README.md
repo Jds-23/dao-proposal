@@ -1,4 +1,5 @@
 # Governance Protocol Documentation
+## ⚠️ Disclaimer: This is underdevelopement. Changes are still frequent.
 
 ## Table of Contents
 1. [Overview](#overview)
